@@ -13,9 +13,9 @@ GC10-DET是在国内某钢铁公司收集的表面缺陷数据集。一个真实
 
 
 
-# or
-# CR7-DET
-冷轧数据集
+#or
+#CR7-DET的网盘下载链接
+冷轧数据集（冷轧，图片需自己合并）
 下载链接：
 链接：https://pan.baidu.com/s/1TfCmOm3EgY5mxWN24f-owA?pwd=s0oz 
 提取码：s0oz 
